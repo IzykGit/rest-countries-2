@@ -1,0 +1,23 @@
+
+
+.drop_selector > button {
+    height: 2rem;
+    width: 10rem;
+    font-size: 1rem;
+
+    text-align: left;
+
+    border: none;
+    border-radius: 0.2rem;
+
+    margin: 1rem;
+
+    cursor: pointer;
+}
+
+
+.dropdown {
+    border: 1px solid black;
+    width: 10rem;
+    height: 0;
+}
